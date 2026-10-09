@@ -1,3 +1,4 @@
-theme: 지식 저장 공간
-title: 인공지능과 데이터
-description: 지금까지 배운 내용을 기록하는 공간입니다.
+remote_theme: pages-themes/architect@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
